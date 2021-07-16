@@ -1,6 +1,8 @@
 # TinDog
-## Meet new and interesting dogs nearby.
+### Meet new and interesting dogs nearby.
+
 This website is a beautiful **_Startup Landing Page_** designed to fit for any startup.
+<hr />
 <br />
 <br />
 
